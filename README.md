@@ -71,20 +71,13 @@
 </p>
 
 ---
-
 <h3 align="left">📫 How to Reach Me</h3>
 <p align="left">
-  <a href="https://github.com/thmsgbrt" target="_blank">
+  <a href="https://github.com/dlaudfuf33" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
   </a> 
-  <a href="https://twitter.com/Guibz16" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
-  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://medium.com/@th.guibert" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="mailto:dlaudfuf33@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
