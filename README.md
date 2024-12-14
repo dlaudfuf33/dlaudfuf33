@@ -15,6 +15,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=dlaudfuf33" alt="dlaudfuf33" />
 </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="dlaudfuf33" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="dlaudfuf33" /></p><br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en" alt="dlaudfuf33" /></p>
