@@ -10,11 +10,10 @@
 
 ## 💻 Tech Stacks
 
-
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 60px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px;">
 
   <!-- Proficient in Section -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
+  <div style="text-align: center;">
     <h4>🔧 Proficient in</h4>
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -33,7 +32,7 @@
   </div>
 
   <!-- Have experience with Section -->
-  <div style="flex: 1 1 400px; max-width: 600px; text-align: center;">
+  <div style="text-align: center;">
     <h4>🛠️ Have experience with</h4>
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -70,6 +69,7 @@
   </div>
 
 </div>
+
 
 ---
 
