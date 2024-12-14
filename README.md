@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Myung-Ryul Lee 🛠️</h1>
 <h3 align="center">A Resilient Developer 💪 </h3>
-<h3>Enthusiastic about Technology & Growth 📈</h3>
+<h3 align="center">Enthusiastic about Technology & Growth 📈</h3>
 
 ---
 
