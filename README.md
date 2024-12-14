@@ -11,7 +11,7 @@
 ## 💻 Tech Stacks
 <div align="center" style="display: flex; justify-content: center; gap: 50px;">
 
-  <!-- Proficient in Section -->
+  <!-- 자주 하는 것 -->
   <div align="center">
     <h4>🔧 Proficient in</h4>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -29,7 +29,7 @@
   </div>
 <br>
 <br>
-  <!-- Have experience with Section -->
+  <!-- 헤본 것 -->
   <div align="center">
     <h4>🛠️ Have experience with</h4>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -63,10 +63,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
     </a>
   </div>
-
 </div>
-
-
 
 
 ---
@@ -74,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
