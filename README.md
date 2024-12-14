@@ -68,26 +68,29 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
-<h3 align="left">📫 How to Reach Me</h3>
-<p align="left">
+
+## 📫 How to Reach Me
+
+<p align="center">
   <a href="https://github.com/dlaudfuf33" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
   </a> 
-  <a href="mailto:dlaudfuf33@gmail.com" target="_blank">
+  <a href="mailto:dlaudfuf33@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dlaudfuf33&column=7" alt="dlaudfuf33" />
   </a> 
