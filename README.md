@@ -27,7 +27,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
   </div>
-
+<br>
+<br>
   <!-- Have experience with Section -->
   <div align="center">
     <h4>🛠️ Have experience with</h4>
