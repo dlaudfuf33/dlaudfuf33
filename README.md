@@ -6,7 +6,6 @@
 <h3 align="center">Enthusiastic about Technology & Growth 📈</h3>
 
 ---
-
 <h3 align="left">💻 Tech Stacks</h3>
 
 <table>
@@ -57,17 +56,14 @@
         </a> 
         <a href="https://redis.io" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-        </a> 
+        </a>
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
