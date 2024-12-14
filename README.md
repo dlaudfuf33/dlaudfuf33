@@ -1,9 +1,8 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dlaudfuf33&label=Profile%20views&color=0e75b6&style=flat" alt="dlaudfuf33" /> 
 </p>
-
-<h1 align="center">Hi 👋, I'm Myung-Ryul Lee</h1>
-<h3 align="center">A Resilient Developer</h3>
+<h1 align="center">Hi 👋, I'm Myung-Ryul Lee 🛠️</h1>
+<h3 align="center">A Resilient Developer 💪 | Enthusiastic about Technology & Growth 📈</h3>
 
 ---
 
@@ -79,18 +78,6 @@
 
 ---
 
-<p align="center">
-  This <i>README</i> is generated <b>every 3 hours</b>!<br/>
-  Last refresh: Saturday, 14 December, 13:01 CET<br />
-  <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">
-    Create your own here!
-  </a>
-</p>
-<p align="center">
-  <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" alt="Build Status" />
-  <img src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" alt="Forks" />
-</p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dlaudfuf33&column=7" alt="dlaudfuf33" />
