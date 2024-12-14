@@ -56,11 +56,7 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dlaudfuf33&column=7" alt="dlaudfuf33" />
-  </a> 
-</p>
+
 
 ---
 
@@ -94,4 +90,9 @@
   <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" alt="Build Status" />
   <img src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" alt="Stars" />
   <img src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" alt="Forks" />
+</p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dlaudfuf33&column=7" alt="dlaudfuf33" />
+  </a> 
 </p>
