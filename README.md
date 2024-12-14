@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=dlaudfuf33&label=Profile%20views&color=0e75b6&style=flat" alt="dlaudfuf33" /> 
 </p>
 <h1 align="center">Hi 👋, I'm Myung-Ryul Lee 🛠️</h1>
-<h3 align="center">A Resilient Developer 💪 | Enthusiastic about Technology & Growth 📈</h3>
+<h3 align="center">A Resilient Developer 💪 </h3>
+<h3>Enthusiastic about Technology & Growth 📈</h3>
 
 ---
 
