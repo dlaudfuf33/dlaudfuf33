@@ -75,9 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{dlaudfuf33}"/>
-</a>
+
 ---
 
 ## 📫 How to Reach Me
@@ -90,5 +88,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{dlaudfuf33}"/>
+</a>
 ---
