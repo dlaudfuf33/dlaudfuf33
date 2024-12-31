@@ -75,7 +75,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 ---
 
 ## 📫 How to Reach Me
