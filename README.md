@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dlaudfuf33&label=조회수&color=0e75b6&style=flat" alt="조회수" />
-</p>
+
 
 ## 👋 안녕하세요  
 **행동으로 증명하는 개발자 이명렬**입니다.
@@ -28,4 +26,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&layout=compact" alt="Top Languages" />
   <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaudfuf33" alt="Solved.ac 프로필" />
+</p>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dlaudfuf33&label=view&color=0e75b6&style=flat" alt="VIEW" />
 </p>
