@@ -24,7 +24,7 @@
 
 
 ## 📊 활동
-<p align="center">
+<p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&layout=compact" alt="Top Languages" />
   <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaudfuf33" alt="Solved.ac 프로필" />
