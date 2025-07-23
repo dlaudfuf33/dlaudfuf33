@@ -1,96 +1,31 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dlaudfuf33&label=Profile%20views&color=0e75b6&style=flat" alt="dlaudfuf33" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dlaudfuf33&label=조회수&color=0e75b6&style=flat" alt="조회수" />
 </p>
 
-<h1 align="center">Hello there 👋&nbsp;&nbsp;,&nbsp;&nbsp; I'm Myung-Ryul Lee 🛠️</h1>
+## 👋 안녕하세요  
+**행동으로 증명하는 개발자 이명렬**입니다.
 
-<h3 align="center">A Resilient Developer 💪</h3>
-<h3 align="center">Enthusiastic about Technology & Growth 📈</h3>
-
----
-
-## 💻 Tech Stacks
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
-
-  <!-- 자주 하는 것 -->
-  <div align="center">
-    <h4>🔧 Proficient in</h4>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-  </div>
-<br>
-<br>
-  <!-- 헤본 것 -->
-  <div align="center">
-    <h4>🛠️ Have experience with</h4>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-    </a>
-    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
-    </a>
-  </div>
-</div>
+문제의 본질을 깊이 고민하고, 생각에 그치지 않고 실행으로 옮깁니다.  
+작은 실행을 쌓아 경험으로 만들고 있습니다.  
+결과로 증명하는 개발자가 되기 위해 매일 움직입니다.
 
 
----
+## 🛠️ 기술 스택
 
-## 📊 GitHub Stats
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+
+
+## 📊 활동
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&layout=compact" alt="Top Languages" />
+  <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaudfuf33" alt="Solved.ac 프로필" />
 </p>
-
----
-
-## 📫 How to Reach Me
-
-<p align="center">
-  <a href="https://github.com/dlaudfuf33" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
-  </a> 
-  <a href="mailto:dlaudfuf33@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{dlaudfuf33}"/>
-</a>
