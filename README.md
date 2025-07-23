@@ -8,7 +8,7 @@
 결과로 증명하는 개발자가 되기 위해 매일 움직입니다.
 
 
-## 🛠️ 기술 스택
+## 🛠️ Tech
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
@@ -21,7 +21,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 
 
-## 📊 활동
+## 📊 Stats
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&layout=compact" alt="Top Languages" />
