@@ -39,16 +39,7 @@
 
 <br>
  
-## 📊 Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&layout=compact" alt="Top Languages" />
-  <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaudfuf33" alt="Solved.ac 프로필" />
-</p>
-
-<br>
- 
-## 🚀 프로젝트
+## 🚀 Projects
 
 ### 🔗 [**QuizSushi**](https://github.com/dlaudfuf33/quizsushi-be)
 > **AI 기반 자격증 문제 생성 · 실시간 대전 플랫폼**  
@@ -85,6 +76,27 @@
 > 여행지 공유 · 게시판 중심의 여행 커뮤니티 플랫폼 
 
 ---
+<br>
+
+
+## 📊 Stats
+<p>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=dlaudfuf33&show_icons=true&theme=radical" />
+    <img height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dlaudfuf33&layout=compact" />
+    <img height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" />
+  </picture>
+
+  <picture>
+    <source srcset="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaudfuf33" />
+    <img height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" />
+  </picture>
+</p>
+
 <br>
 
 <br><br><br>
