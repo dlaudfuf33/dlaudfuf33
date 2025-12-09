@@ -1,7 +1,7 @@
 
 
 ## 📌 Track
-- **2025.10. ~ :: TectOne, 웹 개발자 (Smart Factory / AI·CCTV 백엔드)
+- **2025.10. ~ (현재) :: TectOne, 웹 개발자 (Smart Factory / AI·CCTV 백엔드)
 - **2025.09.** :: 정보처리산업기사
 - **2024.12.** :: AWS Certified Developer – Associate
 - **2024.12.** :: SQLD
